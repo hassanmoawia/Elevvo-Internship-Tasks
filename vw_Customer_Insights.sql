@@ -1,0 +1,7 @@
+SELECT TOP (1000) [CustomerId]
+      ,[CustomerName]
+      ,[BillingCountry]
+      ,[TotalOrders]
+      ,[TotalItems]
+      ,[LifetimeValue]
+  FROM [Chinook].[dbo].[vw_Customer_Insights]

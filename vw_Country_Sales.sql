@@ -1,0 +1,5 @@
+SELECT TOP (1000) [BillingCountry]
+      ,[TotalRevenue]
+      ,[UnitsSold]
+      ,[TotalOrders]
+  FROM [Chinook].[dbo].[vw_Country_Sales]

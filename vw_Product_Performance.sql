@@ -1,0 +1,8 @@
+SELECT TOP (1000) [TrackId]
+      ,[TrackName]
+      ,[Artist]
+      ,[Genre]
+      ,[TotalUnitsSold]
+      ,[TotalRevenue]
+      ,[AvgPrice]
+  FROM [Chinook].[dbo].[vw_Product_Performance]
