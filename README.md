@@ -1,4 +1,5 @@
 # Elevvo-Internship-Tasks
+
 Project Overview
 
 This repository contains dashboards and analysis developed during my Data Analytics Internship at Elevvo.
@@ -69,4 +70,5 @@ KPI Development
 Author
 
 Hassan Moawia
+
 Data Analyst
